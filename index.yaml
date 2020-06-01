@@ -1,0 +1,33 @@
+apiVersion: v1
+entries:
+  exateetljobsqlserver:
+  - apiVersion: v3
+    created: "2020-06-01T13:06:19.718288077-05:00"
+    description: An Exate ETL Job SQL Server application deployment
+    digest: 0ad9a749b8efe48d882375c445d19b0d2cd602bc8774c8d839276076b7f330a4
+    home: https://dev.azure.com/exatetechnology/exatetechnology/_git/ex8ETL
+    maintainers:
+    - email: zeeshan@exate.com
+      name: Exate
+    name: exateetljobsqlserver
+    sources:
+    - https://dev.azure.com/exatetechnology/exatetechnology/_git/ex8ETL
+    urls:
+    - https://github.com/Iqlas15/ex8-helm/releases/download/exateetljobsqlserver-1.0.1/exateetljobsqlserver-1.0.1.tgz
+    version: 1.0.1
+  exateetlunitofworksqlserver:
+  - apiVersion: v3
+    created: "2020-06-01T13:06:19.83915949-05:00"
+    description: An Exate Unitofwork SQLserver application deployment
+    digest: 589d00a0296de09a76bc444eb5b6b3594370a1f063f2b8c37a1a26cd37d9fbe6
+    home: https://dev.azure.com/exatetechnology/exatetechnology/_git/ex8ETL
+    maintainers:
+    - email: zeeshan@exate.com
+      name: Exate
+    name: exateetlunitofworksqlserver
+    sources:
+    - https://dev.azure.com/exatetechnology/exatetechnology/_git/ex8ETL
+    urls:
+    - https://github.com/Iqlas15/ex8-helm/releases/download/exateetlunitofworksqlserver-1.0.1/exateetlunitofworksqlserver-1.0.1.tgz
+    version: 1.0.1
+generated: "2020-06-01T13:06:19.36544554-05:00"
